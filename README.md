@@ -1,43 +1,34 @@
 # youtube summarizer backend
 
-> Project demonstrating technical skills and practical implementation
+> **Project demonstrating technical skills and practical implementation**
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Technical Skills](#technical-skills)
-- [External Links](#external-links)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Keywords](#keywords)
+---
 
-## 🎯 Overview
-
-**Project Name:** youtube summarizer backend
+## 📋 Overview
 
 **Categories:** Database/Backend
 
+**Technologies:** JavaScript
+
 **Project Period:** July 2025 - July 2025
 
-**Status:** Completed and Maintained
+**Status:** Completed and Maintained | **Last Updated:** July 2025
 
-**Last Updated:** July 2025
+---
 
-### Description
+## 🚀 Description
 
 Project demonstrating technical skills and practical implementation
 
-## 🚀 Technologies
+---
 
-JavaScript
-
-## ✨ Features
+## 💡 Project Highlights
 
 - Successfully developed and deployed youtube summarizer backend
 - Implemented using JavaScript
 - Demonstrated proficiency in Database/Backend
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -45,34 +36,13 @@ JavaScript
 - Technical Documentation
 - Version Control (Git/GitHub)
 - Project Management
+---
 
-## 🔗 External Links
+## 📦 Repository
 
-No external links available
+**GitHub:** [https://github.com/HorizonHnk/youtube-summarizer-backend](https://github.com/HorizonHnk/youtube-summarizer-backend)
 
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/HorizonHnk/youtube-summarizer-backend
-
-# Navigate to the project directory
-cd youtube-summarizer-backend
-
-# Install dependencies (if applicable)
-# npm install
-# or
-# pip install -r requirements.txt
-```
-
-## 💻 Usage
-
-Please refer to the project-specific documentation for detailed usage instructions.
-
-## 📊 Project Status
-
-- **Status:** Completed and Maintained
-- **Last Updated:** July 2025
+---
 
 ## 🏷️ Keywords
 
@@ -85,16 +55,8 @@ JavaScript, Database/Backend, Software Development, Computer Engineering, Techni
 **Henock Mukonkole (HorizonHnk)**
 
 - GitHub: [@henockhnk092-dot](https://github.com/henockhnk092-dot/)
-- Portfolio: [86 Technical Projects](https://github.com/henockhnk092-dot/)
-
-## 📄 License
-
-This project is part of my professional portfolio. Please contact me for licensing information.
-
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are always welcome!
+- Portfolio: [90 Technical Projects](https://github.com/henockhnk092-dot/)
 
 ---
 
-*Generated as part of HorizonHnk's GitHub Portfolio Restoration Project*
+*Part of my professional portfolio showcasing expertise in Database/Backend*
